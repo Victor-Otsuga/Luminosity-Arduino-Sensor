@@ -1,4 +1,4 @@
-# Checkpoint 01 – O Caso da Vinheria Agnello
+# Checkpoint 01 – Vinheria Agnello Case
 >Status: Finished✅
 
 ### It is a circuit that captures the luminosity in the location and according to the pre-settings tells the level on led, being:
