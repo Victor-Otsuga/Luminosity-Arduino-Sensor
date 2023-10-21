@@ -1,4 +1,4 @@
-# Checkpoint 01 – Vinheria Agnello Case
+# Luminosity Arduino Sensor
 >Status: Finished✅
 
 ### It is a circuit that captures the luminosity in the location and according to the pre-settings tells the level on led, being:
